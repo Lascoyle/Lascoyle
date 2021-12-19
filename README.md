@@ -6,7 +6,7 @@
 * In 2022 I would like mainly to improve my capacity of programming in Javascript and PHP. :muscle:
 * I'm a huge fan of video games and guitar! :video_game: :guitar:
 
-* And a huge coffee drinker... :coffee: :coffee: :coffee:
+* And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
 
 ### My statistics on Github
 
