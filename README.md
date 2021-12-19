@@ -24,8 +24,6 @@
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" width="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress_PNG74.png" width="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/402-4027556_krita-logo-png-transparent-png.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/
-Figma-logo.png" width="50" />
   
 <br />
 <br />
