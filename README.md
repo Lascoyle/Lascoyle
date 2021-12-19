@@ -13,7 +13,7 @@
 [deviantart]: https://www.deviantart.com/lascoyle-the-second
 [website]: https://lascoyle-dev.netlify.app/
 
-[![Lascoyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lascoyle&theme=synthwave)](https://github.com/Lascoyle/github-readme-stats)
+[![Lascoyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lascoyle&theme=gotham)](https://github.com/Lascoyle/github-readme-stats)
 
 <!---
 Lascoyle/Lascoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
