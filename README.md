@@ -14,7 +14,7 @@
 
 ### Technos and Tools
 
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html-l.png" height="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css.png" height="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" height="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/vuejs.png" height="50" />
