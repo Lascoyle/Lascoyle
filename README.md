@@ -1,4 +1,4 @@
-### Hello there, I'm Cassandra - alias [Lascoyle] :grinning:
+# Hello there, I'm Cassandra - alias [Lascoyle][website] :grinning:
 
 ## I'm a Junior Front-End Developer, also kinda fond of art and graphic stuff! :art:
 
@@ -8,9 +8,10 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee:
 
-## You can keep an eye at my artworks [here][deviantart]!
+### You can keep an eye on my artworks on [Deviant Art][deviantart]!
 
 [deviantart]: https://www.deviantart.com/lascoyle-the-second
+[website]: https://lascoyle-dev.netlify.app/
 
 
 <!---
