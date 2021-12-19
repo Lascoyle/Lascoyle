@@ -1,7 +1,5 @@
 # Hello there, I'm Cassandra - alias [Lascoyle][website] :grinning:
 
-<img src="https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg" width="50" />
-
 [logo]: https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg
 
 ## I'm a Junior Front-End Developer, also kinda fond of [art and graphic stuff][deviantart]! :art:
