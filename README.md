@@ -10,6 +10,7 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
 
+<br />
 <hr/>
 
 ### Technos and Tools
@@ -32,6 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lascoyle&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 <hr/>
 
 ### My statistics on Github
