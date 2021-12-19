@@ -8,6 +8,10 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
 
+### My most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lascoyle&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My statistics on Github
 
 [deviantart]: https://www.deviantart.com/lascoyle-the-second
