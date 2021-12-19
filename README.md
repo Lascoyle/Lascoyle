@@ -1,5 +1,7 @@
 ### Hello there, I'm Cassandra - alias [Lascoyle] :grinning:
 
+<img src="https://github.com/Lascoyle/Lascoyle/blob/master/img/cover.jpg">
+
 ## I'm a Junior Front-End Developer, also kinda fond of art and graphic stuff! :art:
 
 * I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face:
@@ -12,5 +14,3 @@
 Lascoyle/Lascoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Cover](https://github.com/Lascoyle/Lascoyle/blob/master/img/cover.jpg)
