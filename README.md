@@ -14,7 +14,6 @@
 
 ### Technos and Tools
 
-<div>
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/kisspng-logo-html5-brand-clip-art-杉-山-良-雄-5b62be01b565d5.334247781533197825743.jpg" width="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css3-logo-png-transparent.png" width="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" width="50" />
@@ -27,7 +26,9 @@
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/402-4027556_krita-logo-png-transparent-png.png" width="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/
 Figma-logo.png" width="50" />
-</div>
+  
+<br />
+<br />
 
 ### My most used languages on Github
 
