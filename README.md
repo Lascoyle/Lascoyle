@@ -14,16 +14,16 @@
 
 ### Technos and Tools
 
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/vuejs.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/alpinejs.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/laravel-l.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/tailwind.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress_PNG74.png" width="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/402-4027556_krita-logo-png-transparent-png.png" width="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/vuejs.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/alpinejs.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/laravel-l.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/tailwind.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress_PNG74.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/402-4027556_krita-logo-png-transparent-png.png" height="50" />
   
 <br />
 <br />
