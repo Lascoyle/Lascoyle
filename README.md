@@ -1,6 +1,6 @@
 # Hello there, I'm Cassandra - alias [Lascoyle][website] :grinning:
 
-## I'm a Junior Front-End Developer, also kinda fond of art and graphic stuff! :art:
+## I'm a Junior Front-End Developer, also kinda fond of [art and graphic stuff][deviantart]! :art:
 
 * I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face:
 * In 2022 I would like mainly to improve my capacity of programming in Javascript and PHP. :muscle:
@@ -8,7 +8,7 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee:
 
-### You can keep an eye on my artworks on [Deviant Art][deviantart]!
+### My statistics on Github
 
 [deviantart]: https://www.deviantart.com/lascoyle-the-second
 [website]: https://lascoyle-dev.netlify.app/
