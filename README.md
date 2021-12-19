@@ -10,6 +10,8 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
 
+<hr/>
+
 ### Technos and Tools
 
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html-l.png" height="35" />
@@ -29,6 +31,8 @@
 ### My most used languages on Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lascoyle&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
 
 ### My statistics on Github
 
