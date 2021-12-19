@@ -1,5 +1,9 @@
 # Hello there, I'm Cassandra - alias [Lascoyle][website] :grinning:
 
+<img src="https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg" width="50" />
+
+[logo]: https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg
+
 ## I'm a Junior Front-End Developer, also kinda fond of [art and graphic stuff][deviantart]! :art:
 
 * I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face:
@@ -8,7 +12,11 @@
 
 * And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
 
-### My most used languages
+### Technos and Tools
+
+<img src="https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg" width="50" />
+
+### My most used languages on Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lascoyle&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
