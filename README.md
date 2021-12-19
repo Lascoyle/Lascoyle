@@ -1,14 +1,16 @@
 # Hello there, I'm Cassandra - alias [Lascoyle][website] :grinning:
 
-[logo]: https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg" width="250"/>
 
 ## I'm a Junior Front-End Developer, also kinda fond of [art and graphic stuff][deviantart]! :art:
 
-* I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face:
-* In 2022 I would like mainly to improve my capacity of programming in Javascript and PHP. :muscle:
-* I'm a huge fan of video games and guitar! :video_game: :guitar:
+ :small_blue_diamond: I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face: <br />
+ 
+ :small_blue_diamond: In 2022 I would like mainly to improve my capacity of programming in Javascript and PHP. :muscle: <br />
+ 
+ :small_blue_diamond: I'm a huge fan of video games and guitar! :video_game: :guitar: <br />
 
-* And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer:
+ :small_blue_diamond: And a huge coffee drinker... :coffee: :coffee: :coffee: and beer is good too... :beer: <br />
 
 <br />
 <hr/>
