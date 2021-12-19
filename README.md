@@ -23,7 +23,7 @@
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/tailwind-l.png" height="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" height="50" />
 <img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress_PNG74.png" height="50" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/krita.png" height="50" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/krita-l.png" height="50" />
   
 <br />
 <br />
