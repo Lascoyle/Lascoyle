@@ -19,16 +19,16 @@
 
 ### Technos and Tools
 
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html-l.png" height="35" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css.png" height="35" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" height="30" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/vuejs.png" height="30" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/alpinejs-l.png" height="25" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/laravel-l.png" height="35" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/tailwind-l.png" height="30" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" height="30" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress-l.png" height="30" />
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/krita-l.png" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/html-l.png" title="HTML 5" height="35" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/css.png" title="CSS 3" height="35" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/javascript.png" title="Javascript" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/vuejs.png" title="VueJS" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/alpinejs-l.png" title="AlpineJS" height="25" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/laravel-l.png" title="Laravel" height="35" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/tailwind-l.png" title="Tailwind CSS" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/sass-logo.png" title="SASS" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/wordpress-l.png" title="Wordpress" height="30" />
+<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/krita-l.png" title="Krita" height="30" />
   
 <br />
 <br />
