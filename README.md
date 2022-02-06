@@ -2,8 +2,6 @@
 
 <hr/>
 
-<img align="left" src="https://github.com/Lascoyle/Lascoyle/raw/main/img/cover.jpg" width="250"/>
-
 ## I'm a Junior Front-End Developer, also kinda fond of [art and graphic stuff][deviantart]! :art:
 
  :small_blue_diamond: I'm still learning a lot of technos actually and programming concepts and paradigms. :dizzy_face: <br />
